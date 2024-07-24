@@ -1,2 +1,3 @@
 print("lab exam")
 print("full stack development")
+print("computer science")
